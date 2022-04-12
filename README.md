@@ -1,10 +1,9 @@
 # 김신영 Shin Young, KIM
-:pushpin: BE Developer.   
-:paperclip: **[BLOG](https://velog.io/@sy_keem)**   
-:calling: **[EMAIL](https://keemsy112@gmail.com)** <br><br>
+:pushpin: **BE Developer.**   
+:paperclip: **[BLOG](https://velog.io/@sy_keem)** | **[EMAIL](https://keemsy112@gmail.com)** <br><br>
 **(주)앳시스 AT-SYS Co.,**   
 E-Solution 사업부 2020.08 ~ <br><br>
-<h3>⋆⁺₊⋆💙 what i can do is 💙⋆⁺₊⋆</h6>
+<h3>💙 what i can do is </h6>
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spirng-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
