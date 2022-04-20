@@ -1,6 +1,6 @@
 # 김신영 Shin Young, KIM
 :pushpin: **BE Developer.**   
-:paperclip: **[BLOG](https://velog.io/@sy_keem)** | **[EMAIL](https://keemsy112@gmail.com)** <br><br>
+:paperclip: **[BLOG](https://velog.io/@sy_keem)** | **[EMAIL](https://keemsy112@gmail.com)** | **[RESUME](https://www.wanted.co.kr/cv/BQEDAAYDA00FBQsDAgZNRA==?from=profile)**<br><br>
 **(주)앳시스 AT-SYS Co.,**   
 E-Solution 사업부 2020.08 ~ <br><br>
 <h3>💙 what i can do is </h6>
